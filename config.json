@@ -1,0 +1,7 @@
+{
+  "premium_delay_min": 2.0,
+  "premium_delay_max": 4.0,
+  "no_premium_delay_min": 10.0,
+  "no_premium_delay_max": 20.0,
+  "announcement": "Premium Activo"
+}
